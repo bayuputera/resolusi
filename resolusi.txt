@@ -1,6 +1,7 @@
 resolusi kedepannya
 - kerja pagi sampe malem
-- ambil libur weekend
+  *e
+  *f
 - bersih rumah
 - membuat project
 - santai
